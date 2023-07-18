@@ -1,53 +1,57 @@
 
 ## Title
 
-TG Codes💛 - Calculator
-
+Dark/Light mode
 ## Description 
-
-A simple and user-friendly web-based calculator built using HTML, CSS, and JavaScript. Perform basic arithmetic operations, delete characters, and evaluate expressions with ease. The calculator features a clean and responsive design, making it accessible on various devices. Customize the calculator's appearance using CSS and leverage Font Awesome icons for visual appeal. An ideal addition to any web development project.
+"Dark/Light mode feature for your website. Toggle between dark and light themes with a click. Enhance user experience and improve readability in different lighting conditions. Easily customizable and user-friendly. Try it now!"
 ## Authors
 
-- [TG💛](https://www.github.com/codesofTG) 
+- [jagathishwaran](https://www.github.com/jagathishwaran) 
 
-
-## Demo
-
-Live Demo:
-
-    https://codesoftg.github.io/TGCodes-Calculator/
     
 ## Getting Started
 
-This is a customizable web-based calculator application. Easily modify the design by changing the background image, font color, and icons to match your preferences. Here's how to get started:
+Customizable Dark/Light mode feature for your website. Adjust icons, colors, and positioning as desired. Easily add this feature to any website by following these steps:
 
-1. Clone the repository to your local machine.
+   1. Clone the repository to your local machine.
 
-2. Open the project in your preferred code editor.
+   2. Open the project in your preferred code editor.
 
-3. Customize the HTML, CSS, or JavaScript files to suit your needs.
+   3. Customize the HTML, CSS, or JavaScript files to match your website's design.
 
-4. Test the calculator locally to ensure it functions correctly.
+   4. Test the dark/light mode functionality locally to ensure it works correctly.
 
-5. Deploy the updated application to your chosen hosting platform for others to use.
+   5. Deploy the updated code to your preferred hosting platform.
 
-Unleash your creativity and personalize the calculator according to your style!
+   6. Provide users with the option to switch between dark and light themes, enhancing their experience.
+
+   7. Empower users with control over their viewing preference.
+
+   8. Improve readability and adapt to different lighting conditions.
+
+   9. Enhance the aesthetics of your website with a modern and sleek design.
+
+   10. Enjoy the benefits of a customizable and user-friendly dark/light mode feature.
+
+
+
 ## Features
 
-1. Basic arithmetic operations: Addition, subtraction, 
-multiplication, and division.
 
-2. Decimal point support and clearing display.
 
-3. Delete last character and evaluate expressions.
+   1. Dark/Light Mode: Switch between dark and light themes for your website.
 
-4. User-friendly design with responsive layout.
+   2. Improved Readability: Enhance user experience by adjusting the color scheme to different lighting conditions.
 
-5. Styling with custom CSS for an appealing visual experience. 
+   3. Customizable: Adapt the colors and styles to match your website's design.
 
-6. Use of popular web fonts for improved typography.
+   4. Accessibility: Improve accessibility by offering a choice of themes to users.
 
-7. Integration of Font Awesome icons for enhanced aesthetics.
+   5. Lightweight: Minimalistic code ensures fast loading and smooth functionality.
+
+
+
+
 ## Contributing
 
 Contributions are always welcome!
@@ -59,14 +63,7 @@ If you have any suggestions, improvements, or bug fixes, feel free to submit a p
 
 For any questions or inquiries, please feel free to reach out. 
 
-TG :
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tg2691/)
-
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tg_262001)
-
-[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_tg.26_)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagathishwaran-m-172928231)
 
 
 Thank you for visiting the page!
